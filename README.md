@@ -10,7 +10,5 @@ Primary Objective
 
 Secondary Objectives
 -Digging deeper into the treasury functions of U.S. Investment Banks.
-
 -Previewing the securities making it to the London Stock Exchange.
-
 -Uncovering the Irish Debt Financing System.
