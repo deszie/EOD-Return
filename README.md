@@ -6,6 +6,7 @@ Handpicked prospectuses from the U.S. SEC, the U.K. FCA, and the Irish Central B
 
 Primary Objectives:
 -Sourcing investments and identifying useful case studies.
+-Making best use of Activist Crossing - Alpha Capture.
 
 
 Secondary Objectives:
