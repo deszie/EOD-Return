@@ -2,7 +2,7 @@
 
 What's your investment strategy?
 
-Handpicked prospectuses from the U.S. SEC, the U.K. FCA, and the Irish Central Bank websites. Company Intelligence from ActivistCrossing.com/alpha.html
+Handpicked prospectuses from the U.S. SEC, the U.K. FCA, and the Irish Central Bank websites. Company Intelligence from https://www.ActivistCrossing.com/alpha.html
 
 Primary Objectives:
 -Sourcing investments and identifying useful case studies.
