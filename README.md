@@ -7,6 +7,7 @@ Handpicked prospectuses from the U.S. SEC, the U.K. FCA, and the Irish Central B
 Primary Objective
 Sourcing investments, identifying useful case studies.
 
+
 Secondary Objectives
 Digging deeper into the treasury functions of U.S. Investment Banks.
 
