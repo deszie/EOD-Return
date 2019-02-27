@@ -7,7 +7,7 @@ Handpicked prospectuses, primarily from the U.S. SEC, the U.K. FCA, and the Iris
 Primary Objectives:
 -Sourcing investments and identifying useful case studies.
 -Making best use of Activist Crossing - Alpha Capture.
-
+-Developing a portfolio management process.
 
 Secondary Objectives:
 -Digging deeper into the treasury functions of U.S. Investment Banks.
